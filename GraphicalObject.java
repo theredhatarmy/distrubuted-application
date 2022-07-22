@@ -61,5 +61,4 @@ public class GraphicalObject implements Serializable {
             System.out.println("not filled");
         }
     }
-
 }
